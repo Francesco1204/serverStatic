@@ -1,0 +1,30 @@
+#bottonigrossi{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#bottone1{
+    background-color: blue;
+    color: red
+}
+
+#bottone2{
+    background-color: red;
+    color: blue;
+    font-family: "Copperplate", fantasy;
+}
+
+.paragrafo{
+    text-align: center;
+    color: blue
+}
+
+.body{
+    background-color: black
+}
+
+.immagine{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
